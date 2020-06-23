@@ -1,27 +1,31 @@
 
-Electricity Usage Report
+#Electricity Usage Report
+
+User enters customer's number, name, and electricity usage in kwH. The program calculates the customer's bill and returns an amount due. 
+
 
 IPO
 
 INPUT
 
-Header record
-Detail record
-Customer number
-Customer name
-Electricity usage inKW hours
+    Header record
+    Detail record
+    Customer number
+    Customer name
+    Electricity usage inKW hours
 
 OUTPUT
 
-Electricity usage report
-Customer number
-Customer name
-Electricity usage
-Amount owing
-Total electricity usage in kwHours
+    Electricity usage report
+    Customer number
+    Customer name
+    Electricity usage
+    Amount owing
+    Total electricity usage in kwHours
 
 
 PROCESS
+
 BEGIN
 
 GETTING INPUT
